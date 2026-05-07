@@ -1,6 +1,6 @@
 # GrokAlign
 
-Demonstrating the effectiveness of the GrokAlign regularization strategy proposed in "Normal Alignment: The Geometric Structure of Models Learning Sparse Data" for accelerating grokking.
+Demonstrating the effectiveness of the GrokAlign regularization strategy proposed in "The Geometric Structure of Models Learning Sparse Data" for accelerating grokking.
 
 ## Tasks
 
